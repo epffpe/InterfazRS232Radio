@@ -1,0 +1,100 @@
+Added Component: Designator=C1(0805_CAP)
+Added Component: Designator=C2(0805_CAP)
+Added Component: Designator=C3(0805_CAP)
+Added Component: Designator=C4(0805_CAP)
+Added Component: Designator=C5(0805_CAP)
+Added Component: Designator=C6(0805_CAP)
+Added Component: Designator=C7(0805_CAP)
+Added Component: Designator=C8(0805_CAP)
+Added Component: Designator=C9(0805_CAP)
+Added Component: Designator=C10(0805_CAP)
+Added Component: Designator=C11(0805_CAP)
+Added Component: Designator=COMM1(HDR2X3_CEN)
+Added Component: Designator=D1(SOD-323)
+Added Component: Designator=P1(Header2Macho)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=U1(D008_N)
+Added Component: Designator=U2(SOIC127P602-16BN)
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U2-16
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=COMM1-3
+Added Pin To Net: NetName=GND Pin=COMM1-6
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U2-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=U2-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U2-5
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U2-4
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U2-6
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=RXD1 Pin=P2-3
+Added Pin To Net: NetName=RXD1 Pin=U2-12
+Added Net: Name=RXD1
+Added Pin To Net: NetName=RXD2 Pin=P3-3
+Added Pin To Net: NetName=RXD2 Pin=U2-9
+Added Net: Name=RXD2
+Added Pin To Net: NetName=TXD1 Pin=P2-4
+Added Pin To Net: NetName=TXD1 Pin=U2-11
+Added Net: Name=TXD1
+Added Pin To Net: NetName=TXD2 Pin=P3-4
+Added Pin To Net: NetName=TXD2 Pin=U2-10
+Added Net: Name=TXD2
+Added Pin To Net: NetName=URXD1 Pin=COMM1-2
+Added Pin To Net: NetName=URXD1 Pin=U2-13
+Added Net: Name=URXD1
+Added Pin To Net: NetName=URXD2 Pin=COMM1-5
+Added Pin To Net: NetName=URXD2 Pin=U2-8
+Added Net: Name=URXD2
+Added Pin To Net: NetName=UTXD1 Pin=COMM1-1
+Added Pin To Net: NetName=UTXD1 Pin=U2-14
+Added Net: Name=UTXD1
+Added Pin To Net: NetName=UTXD2 Pin=COMM1-4
+Added Pin To Net: NetName=UTXD2 Pin=U2-7
+Added Net: Name=UTXD2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=VCC Pin=C11-1
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Class: Name=InterfazRS232Radio
+Added Room: Name=InterfazRS232Radio

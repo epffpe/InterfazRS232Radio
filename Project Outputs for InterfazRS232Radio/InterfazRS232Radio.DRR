@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: InterfazRS232Radio.PcbDoc   12/11/2012  16:09:28
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : InterfazRS232Radio.TXT
+EIA File   : InterfazRS232Radio.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.9mm (35.433mil)        Round          16               61.12 mm (2.41 Inch)
+---------------------------------------------------------------------------
+Totals                                            16               61.12 mm (2.41 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
